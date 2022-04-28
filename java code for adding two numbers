@@ -1,0 +1,8 @@
+import java.io.*
+class Main
+{
+int n1,n2,sum;
+sum=n1+n2;
+System.Out.print(sum);
+}
+
